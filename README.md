@@ -1,5 +1,9 @@
 Code and Data for "MisinfoEval: Generative AI in the Era of 'Alternative Facts'"
 
+[Data link]()
+
+[Environment link]()
+
 [Paper link](https://arxiv.org/abs/2410.09949)
 
 If this repo is useful to you, please cite:
