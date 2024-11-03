@@ -1,6 +1,6 @@
 Code and Data for "MisinfoEval: Generative AI in the Era of 'Alternative Facts'"
 
-[Data link]()
+[Data link](skgabriel/MisinfoEval)
 
 [Environment link]()
 
