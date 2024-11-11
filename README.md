@@ -4,7 +4,7 @@ Code and Data for "MisinfoEval: Generative AI in the Era of 'Alternative Facts'"
 
 [Environment link](https://saadiagabriel.com/MisinfoEval)
 
-[Data link](skgabriel/MisinfoEval)
+[User data link](skgabriel/MisinfoEval)
 
 If this repo is useful to you, please cite:
 
