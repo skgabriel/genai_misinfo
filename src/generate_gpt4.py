@@ -23,7 +23,7 @@ prompt1 = "Write a short explanation for why the headline '"
 prompt2 = "' is '"
 prompt_end = ".' Do not mention that you are AI. The explanation must be less than 100 words."
 
-file = [row for row in csv.reader(open("newsfeed_eval_set.csv"))]
+file = [row for row in csv.reader(open("../data/newsfeed_eval_set.csv"))]
 header = file[0]
 print(header)
 file = file[1:]
