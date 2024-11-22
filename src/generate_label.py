@@ -9,7 +9,7 @@ parser = argparse.ArgumentParser(prog='MisinfoEval', description='Show whether t
 parser.add_argument("--seed",default=10)
 args = parser.parse_args()
 
-file = [row for row in csv.reader(open("newsfeed_eval_set.csv"))]
+file = [row for row in csv.reader(open("../data/newsfeed_eval_set.csv"))]
 header = file[0]
 file = file[1:]
 file2 = csv.writer(open("label.csv","w"))
