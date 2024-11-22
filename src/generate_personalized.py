@@ -33,7 +33,7 @@ prompt_end = prompt_end.replace("<gender>",params[-2])
 prompt_end = prompt_end.replace("<age>",params[-1])
 prompt_end = prompt_end.replace("<race>",params[1])
 
-file = [row for row in csv.reader(open("newsfeed_eval_set.csv"))]
+file = [row for row in csv.reader(open("../data/newsfeed_eval_set.csv"))]
 header = file[0]
 print(header)
 file = file[1:]
